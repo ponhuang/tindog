@@ -227,4 +227,12 @@ body {
     transform: rotate(0);
     margin-left: 0;
   }
+
+  #cta {
+    padding: 7% 10% 3%;
+  }
+
+  .cta-heading {
+    font-size: 2rem;
+  }
 }
